@@ -2,8 +2,11 @@ def sum(a,b):
 	s=a+b;
 	return s;
 
-#a=input("Enter a number: ");
-#b=input("Enter next number: ");
-#sum(a,b);
-print sum(5,6);
 
+print sum(5,6);
+def add(p,q,r):
+	t=p+q+r;
+	return t;
+
+
+print add(2,3,4);
